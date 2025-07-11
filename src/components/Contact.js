@@ -72,8 +72,8 @@ const Contact = () => {
                         },
                         {
                             label: 'LinkedIn',
-                            href: 'https://www.linkedin.com/in/jessie-albert-regualos-3a4765340/',
-                            text: 'linkedin.com/in/jessie-albert-regualos-3a4765340/',
+                            href: 'https://www.linkedin.com/in/regualos-jessie-albert/',
+                            text: 'linkedin.com/in/regualos-jessie-albert/',
                             icon: <FaLinkedin className="w-5 h-5 sm:w-6 sm:h-6 text-off-white group-hover:text-teal transition-colors duration-300" />,
                         },
                         {
